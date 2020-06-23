@@ -42,11 +42,11 @@ h1{
   background:#a08c97
 }
 
-img{
-  width:50vw;
+/* img{
+  width:40vw;
   height:50vh;
 
-}
+} */
 .card{
   display: block;
 text-align: left;

@@ -6,8 +6,8 @@ const Card = props=>{
     return (
 
         <div className='card'>
-            <h1>Nasa Photo</h1>
-            <p>{props.date}</p>
+            <h1>Today <span > <p>{props.date}</p></span> Nasa Photo</h1>
+            
             <img src= {props.image} alt=''/>
             
             <p>{props.explanation}</p>
