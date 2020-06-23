@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  text-align: center;
+  padding:5%;
+  background:#a08c97
+}
+
+img{
+  width:50vw;
+  height:50vh;
+
+}
+.card{
+  display: block;
+text-align: left;
+padding:1% 5%;
+background: #a8f9f3;
+
+}
+.card p {
+  font-size: 1.1rem
+}
