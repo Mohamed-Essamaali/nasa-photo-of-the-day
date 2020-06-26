@@ -38,8 +38,8 @@
 }
 h1{
   text-align: center;
-  padding:5%;
-  background:#a08c97
+  padding:2%;
+  background:#888587
 }
 
 /* img{
@@ -51,7 +51,7 @@ h1{
   display: block;
 text-align: left;
 padding:1% 5%;
-background: #a8f9f3;
+/* background: #a8f9f3; */
 
 }
 .card p {
